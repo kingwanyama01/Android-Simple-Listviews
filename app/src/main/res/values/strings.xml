@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Simple List</string>
+    <string-array name="list_data">
+        <item>King</item>
+        <item>Immanuel</item>
+        <item>Matilda</item>
+        <item>Celine</item>
+        <item>Esther</item>
+        <item>Nicole</item>
+        <item>Jedida</item>
+        <item>Israel</item>
+        <item>Brian</item>
+        <item>Abdi</item>
+    </string-array>
+</resources>
